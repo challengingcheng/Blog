@@ -25,8 +25,8 @@
         <entry file="file://$PROJECT_DIR$/你不知道的闭包.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="60">
-                <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -169,12 +169,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1477477369293</updated>
-      <workItem from="1477477370675" duration="950000" />
+      <workItem from="1477477370675" duration="1193000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="950000" />
+    <option name="totallyTimeSpent" value="1193000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="42" y="23" width="1878" height="1177" extended-state="6" />
@@ -209,8 +209,8 @@
     <entry file="file://$PROJECT_DIR$/你不知道的闭包.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
             <folding />
           </first_editor>
           <second_editor />
